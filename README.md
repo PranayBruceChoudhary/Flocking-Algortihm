@@ -1,4 +1,4 @@
-#Flocking Algorithm Implementation
+# Flocking Algorithm Implementation
 
 A complete Unity implementation of Craig Reynolds' Boids Flocking Algorithm created for **Pirate Raiders**. This repository contains all C# scripts, prefabs, materials, and animation assets required to integrate dynamic flocking behaviour into any Unity project.
 
